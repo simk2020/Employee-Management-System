@@ -2,7 +2,7 @@
 // const db = require("./db");
 require("console.table");
 const inquirer = require("inquirer");
-const connection = require("./config/connection")
+const connection = require("./connection")
 
 init();
 
